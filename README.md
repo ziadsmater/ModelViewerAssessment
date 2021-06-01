@@ -17,6 +17,7 @@ check it for Camera rotation. and uncheck it for model rotation.
 * For IOS, an XCode project will be exported. It should be opened with XCode then build on an IOS device.
 
 ## Notes:
+* This project is created with Unity version 2020.3.2f1.
 * This project can open a model and adjust the camera automatically for initial view.
 * There are 2 ways to rotate, a Camera roation and model rotation.
 * scroll zoom also added for PC build or player in editor.
